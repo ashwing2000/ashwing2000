@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwing2000&label=Profile%20views&color=0e75b6&style=flat" alt="ashwing2000" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m Working as **Frontend Development**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT JS**
 
